@@ -1,2 +1,2 @@
-# motionai
+# MotionAi
 Aplikasi AI Generator
