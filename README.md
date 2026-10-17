@@ -1,0 +1,2 @@
+# motionai
+Aplikasi AI Generator
